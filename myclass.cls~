@@ -183,15 +183,15 @@
 \RequirePackage{lastpage}
 \RequirePackage{fancyhdr}
 \RequirePackage{eso-pic}                            
-%\newcommand\BackgroundPic{                                                              
-%\put(0,0){                                                                        
-%\parbox[b][\paperheight]{\paperwidth}{%
-%\vfill
-%\centering
-%\includegraphics[width=\paperwidth,height=\paperheight,
-%keepaspectratio]{small.jpg}%
-%\vfill
-%}}}
+\newcommand\BackgroundPic{                                                              
+\put(0,0){                                                                        
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,
+keepaspectratio]{small.jpg}%
+\vfill
+}}}
 
 \AddToShipoutPicture{\BackgroundPic}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
