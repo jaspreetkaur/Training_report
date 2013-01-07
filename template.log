@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  7 JAN 2013 13:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  7 JAN 2013 14:19
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -276,21 +276,21 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 (./template.aux (./acknowledge.aux) (./organisation.aux) (./bibliography.aux))
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -308,7 +308,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count111
 \everyMPtoPDFconversion=\toks25
 ) ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 51.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -318,8 +318,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count112
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
  (./template.out)
 (./template.out)
 \@outlinefile=\write5
@@ -369,11 +369,11 @@ driver: pdftex
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 <gne.png, id=111, 706.89093pt x 776.9025pt>
 File: gne.png Graphic file (type png)
  <use gne.png>
@@ -384,7 +384,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 
+l.55 
      
 ? 
 
@@ -394,57 +394,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 
+l.55 
      
 ? 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56 
-     
-? 
-LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Overfull \hbox (47.19978pt too wide) in paragraph at lines 56--56
-[]\OT1/ptm/b/n/12 Submitted
- []
-
-
-Overfull \hbox (10.75638pt too wide) in paragraph at lines 56--56
-\OT1/ptm/b/n/12 To: 
- []
-
-
-Overfull \hbox (43.20378pt too wide) in paragraph at lines 56--56
-[]\OT1/ptm/m/n/12 Submitted
- []
-
-
-Overfull \hbox (3.1963pt too wide) in paragraph at lines 56--56
-\OT1/ptm/m/n/12 to
- []
-
-
-Overfull \hbox (23.18819pt too wide) in paragraph at lines 56--56
-\OT1/ptm/m/n/12 which
- []
-
-
-Overfull \hbox (20.52423pt too wide) in paragraph at lines 56--56
-\OT1/ptm/m/n/12 guide 
- []
-
 
 ! LaTeX Error: There's no line here to end.
 
@@ -452,16 +413,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 
+l.55 
      
 ? 
-<small.jpg, id=113, 863.225pt x 874.26625pt>
-File: small.jpg Graphic file (type jpg)
- <use small.jpg> [1
+[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./small.jpg> <./gne.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./gne.png>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -469,8 +428,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [1]
+[1]
 \openout2 = `acknowledge.aux'.
 
  (./acknowledge.tex
@@ -510,8 +468,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [2
+[2
 
 
 ] (./template.toc)
@@ -525,8 +482,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [3
+[3
 
 
 ] (./template.lof)
@@ -540,8 +496,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [4
+[4
 
 ]
 \openout2 = `organisation.aux'.
@@ -575,7 +530,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
 
-<gndec.jpg, id=171, 301.125pt x 225.84375pt>
+<gndec.jpg, id=170, 301.125pt x 225.84375pt>
 File: gndec.jpg Graphic file (type jpg)
  <use gndec.jpg>
 
@@ -607,9 +562,7 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.47 \begin{itemize}
-                    
-File: small.jpg Graphic file (type jpg)
- <use small.jpg> [1
+                     [1
 
 
 ]
@@ -619,24 +572,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [2 <./gndec.jpg>])
+[2 <./gndec.jpg>])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [3]
+[3]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [4
+[4
 
 
 ]
@@ -646,8 +596,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [5
+[5
 
 ]
 
@@ -656,16 +605,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [6]
+[6]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [7
+[7
 
 ]
 
@@ -674,8 +621,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [8
+[8
 
 ]
 \openout2 = `bibliography.aux'.
@@ -691,29 +637,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-File: small.jpg Graphic file (type jpg)
-<use small.jpg> [9
+[9
 
 
-] AED: lastpage setting LastPage (./template.aux
-(./acknowledge.aux) (./organisation.aux) (./bibliography.aux)) ) 
+] AED: lastpage setting LastPage (./template.aux (./acknowledge.aux)
+(./organisation.aux) (./bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 5817 strings out of 493848
- 82151 string characters out of 1152823
- 157739 words of memory out of 3000000
- 8906 multiletter control sequences out of 15000+50000
+ 5813 strings out of 493848
+ 82093 string characters out of 1152823
+ 157671 words of memory out of 3000000
+ 8902 multiletter control sequences out of 15000+50000
  21221 words of font info for 49 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,11n,45p,342b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/tex
-mf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utm
-b8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/
+{/usr/share/texmf-texlive/fonts/enc
+/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (14 pages, 407538 bytes).
+type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on template.pdf (14 pages, 367512 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
- 232 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -193,7 +193,7 @@
 %\vfill
 %}}}
 
-\AddToShipoutPicture{\BackgroundPic}
+%\AddToShipoutPicture{\BackgroundPic}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \if@titlepage
 %\thispagestyle{empty}
@@ -249,17 +249,17 @@
 \vskip 0.2cm%
 \@author 
 \vskip 0.1cm%
-{\if\@class\relax\else \@class\par\fi \par} \\ %
-\vskip 0.1cm%
  {\if\@classrollno\relax\else \@classrollno\par\fi \par} \\% \\
 \vskip 0.1cm%
 {\if\@unirollno\relax\else \@unirollno\par\fi \par}\\% \\
 \end{minipage}
-\hspace{5cm}
-\begin{minipage}{0.01\paperwidth}   
+\hfill{} 
+\begin{minipage}{0.3\paperwidth}
+\begin{raggedright}   
  {\bf{Submitted To:}}
  \vskip 0.2cm%
-{\if\@name\relax\else \@name\par\fi \par}\\% \\
+{\if\@name\relax\else \@name\par\fi \par}\\% 
+\end{raggedright}
 \end{minipage}
 \begin{center}
 \begin{flushbottom}
