@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  7 JAN 2013 14:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  7 JAN 2013 14:47
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -397,15 +397,6 @@ Type  H <return>  for immediate help.
 l.55 
      
 ? 
-LaTeX Font Info:    Try loading font information for U+msa on input line 55.
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 55.
-
-(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
 
 ! LaTeX Error: There's no line here to end.
 
@@ -471,7 +462,16 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2
 
 
-] (./template.toc)
+] (./template.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+))
 \tf@toc=\write6
 \openout6 = `template.toc'.
 
@@ -645,7 +645,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  5813 strings out of 493848
  82093 string characters out of 1152823
- 157671 words of memory out of 3000000
+ 157677 words of memory out of 3000000
  8902 multiletter control sequences out of 15000+50000
  21221 words of font info for 49 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -656,7 +656,7 @@ y10.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on template.pdf (14 pages, 367512 bytes).
+Output written on template.pdf (14 pages, 367504 bytes).
 PDF statistics:
  246 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)

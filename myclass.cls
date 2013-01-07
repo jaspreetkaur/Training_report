@@ -244,7 +244,7 @@
 \includegraphics[scale=0.13]{gne.png}
 \end{center}
  \vfill
-\begin{minipage}{0.3\paperwidth}
+\begin{minipage}[t]{0.3\paperwidth}
 {\bf{Submitted By:}}
 \vskip 0.2cm%
 \@author 
@@ -254,7 +254,7 @@
 {\if\@unirollno\relax\else \@unirollno\par\fi \par}\\% \\
 \end{minipage}
 \hfill{} 
-\begin{minipage}{0.3\paperwidth}
+\begin{minipage}[t]{0.3\paperwidth}
 \begin{raggedright}   
  {\bf{Submitted To:}}
  \vskip 0.2cm%
