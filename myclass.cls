@@ -225,50 +225,64 @@
 \def\@name{\relax}
 \newcommand{\name}[1]{\gdef\@name{#1}}
 
+
+\def\@purpose{\relax}
+\newcommand{\purpose}[1]{\gdef\@purpose{#1}}
+
+
+\def\hlinewd#1{%
+\noalign{\ifnum0=`}\fi\hrule \@height #1 %
+\futurelet\reserved@a\@xhline} 
+
   \newcommand\maketitle{\begin{titlepage}%
   \let\footnotesize\small
   \let\footnoterule\relax
   \let \footnote \thanks
   %\null\vfil
-  %\vskip 60\p@
+  \vskip 60\p@
+
   \begin{center}%
+
     {\LARGE \bf \@title \par}%
-    \vskip 0.3cm%
+    \vskip 0.2cm%
  {\if\@subtitle\relax\else\Large \bf \@subtitle\par\fi \par}%
-\vfill
-{Submitted for the partial fulfillment of the Degree \par}%
-{of \par}%
-{Bachelor of Technology \par}%
+\vskip 1cm
+ {\if\@purpose\relax\else \bf \@purpose\par\fi \par}%
+\vskip 0.2cm%
+{SUBMITTED FOR THE PARTIAL FULFILLMENT OF THE DEGREE \par}%
+{OF \par}%
+{BACHELOR OF TECHNOLOGY \par}%
 \if\@branch\relax\else \bf (\@branch)\par\fi \par
- \vskip 1.0cm%
-\includegraphics[scale=0.13]{gne.png}
+ \vskip 1.3cm%
+\includegraphics[scale=0.18]{gne.png}
 \end{center}
- \vfill
+ \vskip 0.8cm
 \begin{minipage}[t]{0.3\paperwidth}
-{\bf{Submitted By:}}
+{\bf{\large Submitted By:}}
 \vskip 0.2cm%
 \@author 
+%\vskip 0.1cm%
+ %Class Roll No.: {\if\@classrollno\relax\else \@classrollno\par\fi \par} 
 \vskip 0.1cm%
- {\if\@classrollno\relax\else \@classrollno\par\fi \par} \\% \\
-\vskip 0.1cm%
-{\if\@unirollno\relax\else \@unirollno\par\fi \par}\\% \\
+{\if\@unirollno\relax\else \@unirollno\par\fi \par}
 \end{minipage}
 \hfill{} 
 \begin{minipage}[t]{0.3\paperwidth}
 \begin{raggedright}   
- {\bf{Submitted To:}}
+ {\bf{\large Submitted To:}}
  \vskip 0.2cm%
 {\if\@name\relax\else \@name\par\fi \par}\\% 
+Training Co-ordinator \\                                                                                                                        CSE Department
 \end{raggedright}
 \end{minipage}
 \begin{center}
 \begin{flushbottom}
-\vfill{}
-\hrule
- \vskip 0.5cm%
-Department of \if\@branch\relax\else  \@branch\par\fi \par
-    \vskip 0.3cm%la
-     \bf GURU NANAK DEV ENGINEERING COLLEGE \\
+\vskip 1.2cm
+\hlinewd{2pt}
+ \vskip 0.8cm%
+{\bf Department of \if\@branch\relax\else \large \@branch\par\fi \par}
+    \vskip 0.3cm%
+     \bf \large GURU NANAK DEV ENGINEERING COLLEGE \\
         Ludhiana 141006
 
 \end{flushbottom}

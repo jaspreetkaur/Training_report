@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  7 JAN 2013 14:47
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.8.24)  9 JAN 2013 10:08
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -377,6 +377,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 <gne.png, id=111, 706.89093pt x 776.9025pt>
 File: gne.png Graphic file (type png)
  <use gne.png>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+
 
 ! LaTeX Error: There's no line here to end.
 
@@ -387,32 +390,15 @@ Type  H <return>  for immediate help.
 l.55 
      
 ? 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 
-     
-? 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
+! Misplaced \noalign.
+<recently read> \noalign 
+                         
 l.55 
      
 ? 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./gne.png>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
@@ -643,10 +629,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ] AED: lastpage setting LastPage (./template.aux (./acknowledge.aux)
 (./organisation.aux) (./bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 5813 strings out of 493848
- 82093 string characters out of 1152823
- 157677 words of memory out of 3000000
- 8902 multiletter control sequences out of 15000+50000
+ 5816 strings out of 493848
+ 82115 string characters out of 1152823
+ 157777 words of memory out of 3000000
+ 8905 multiletter control sequences out of 15000+50000
  21221 words of font info for 49 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,11n,45p,342b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -656,7 +642,7 @@ y10.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on template.pdf (14 pages, 367504 bytes).
+Output written on template.pdf (14 pages, 367588 bytes).
 PDF statistics:
  246 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)

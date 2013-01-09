@@ -29,11 +29,10 @@
 
 \uppercase{ \title{Project name}}
 \subtitle{subtitle}
+\purpose{Six Moths Industrial Training Report} % or synopsis or Mid term report
 \branch{CSE} 
 
 \author{your name}
-\class{year and branch}              %% e.g D$3$ CSE
-\classrollno{your class rollno}
 \unirollno{university rollno}
 
 \name{Submitted to which guide}
